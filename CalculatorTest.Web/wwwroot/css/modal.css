@@ -1,0 +1,20 @@
+﻿#dismiss-modal {
+    background-color: brown;
+}
+
+#calculate-button {
+    background-color: darkgreen;
+}
+
+#modal-header-title {
+    font-weight: bold;
+    color: darkgreen;
+}
+
+#result {
+    background-color: lightgreen;
+}
+
+form label {
+    font-weight: bold;
+}
